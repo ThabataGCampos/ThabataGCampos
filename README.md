@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Estudando Full Stack 
-- 😄 Pronomes: ela/dela
-- ⚡ Fun fact: Seriadora, gateira, gamer, artista e apaixonada por tecnologia.
+🌱 Estudando Full Stack | 😄 Pronomes: ela/dela |⚡ Fun fact: Seriadora, gateira, gamer, artista e apaixonada por tecnologia.
 
  <div align="center">
   <a href=https://www.linkedin.com/in/thabata-gomes-90212b176/">
