@@ -2,7 +2,7 @@
 
 🌱 Estudando Full Stack | 😄 Pronomes: ela/dela |⚡ Fun fact: Seriadora, gateira, gamer, artista e apaixonada por tecnologia.
 
- <div align="flex">
+ <div style="display: flex">
   <a href=https://www.linkedin.com/in/thabata-gomes-90212b176/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thabatagcampos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabatagcampos&layout=compact&langs_count=7&theme=radical"/>
