@@ -3,9 +3,9 @@
 🌱 Estudando Full Stack | 😄 Pronomes: ela/dela |⚡ Fun fact: Seriadora, gateira, gamer, artista e apaixonada por tecnologia.
 
  <div style="display: flex; justify-content: space-evenly; flex-wrap: nowrap">
- <a href="https://github.com/ThabataGCampos%22%3E
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThabataGCampos&hide=stars&count_private=true&show_icons=true&theme=radical&hide_rank=true&cache_seconds=2000&include_all_commits=true%22/%3E
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabataGCampos&layout=compact&theme=radical&cache_seconds=2000&langs_count=6%22/%3E
+ <a href="https://github.com/ThabataGCampos">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThabataGCampos&hide=stars&count_private=true&show_icons=true&theme=radical&hide_rank=true&cache_seconds=2000&include_all_commits=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabataGCampos&layout=compact&theme=radical&cache_seconds=2000&langs_count=6"/>
 </div>
   
   
