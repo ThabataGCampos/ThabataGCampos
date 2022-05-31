@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 Estudando Full Stack | 😄 Pronomes: ela/dela |⚡ Fun fact: Seriadora, gateira, gamer, artista e apaixonada por tecnologia.
+🌱 Estudando Front-End | 😄 Pronomes: ela/dela |⚡ Fun fact: Seriadora, gateira, gamer, artista e apaixonada por tecnologia.
 
  <div style="display: flex; justify-content: space-evenly; flex-wrap: nowrap">
  <a href="https://github.com/ThabataGCampos">
